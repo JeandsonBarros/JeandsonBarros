@@ -44,7 +44,7 @@
  <!-- <img width="60" src="https://media4.giphy.com/media/bkBghIPzsBdAxLMBUC/200.gif" /> -->
 </div>                            
 
-## Communication and social
+## 👨 Social 
 
 <div>
   <a href="https://criarmeulink.com.br/u/1662406724" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
