@@ -26,10 +26,11 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
+ <!-- <img width="60" src="https://media4.giphy.com/media/bkBghIPzsBdAxLMBUC/200.gif" /> -->
 </div>                            
 
 ## 
-https://www.linkedin.com/in/jeandson-barros-1aa133221/
+
 <div>
   <a href="https://criarmeulink.com.br/u/1662406724" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
   <a href="https://www.youtube.com/channel/UCRWMel9bdbSUsmyK92TnGLA" target="_blank" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
